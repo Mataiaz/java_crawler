@@ -2,6 +2,7 @@
 This is a simple java web crawler made with maven.
 This projects features some basic code with basic reusability.
 In this project i use jsoup to parse the html code
+Picture at bottom.
 
 FYI: A web crawler is a program that searches through the web or on a specific webpage and fetches the html code (the code that structures the webpage).
 
@@ -24,5 +25,5 @@ mathias344@live.no
 
 Made by Mathias L. Bjarnason
 
-![](https://github.com/Mataiaz/java_crawler/blob/main/javaPics/java1.PNG)
+![How it looks like](https://github.com/Mataiaz/java_crawler/blob/main/javaPics/java1.PNG)
 
