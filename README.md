@@ -12,7 +12,7 @@ To test the program just download the jar file by pressing download(right side o
 
 https://github.com/Mataiaz/projects/blob/main/demo.jar
 
-Then open a terminal as an administrator, locate the file
+Then open a terminal as an administrator, locate the file.
 
 and run java -jar demo.jar
 
