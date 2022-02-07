@@ -5,7 +5,7 @@ In this project i use jsoup to parse the html code
 
 FYI: A web crawler is a program that searches through the web or on a specific webpage and fetches the html code (the code that structures the webpage).
 
-## Test program ##
+## Test project ##
 To test the program just download the jar file by pressing download(right side on screen).
 https://github.com/Mataiaz/projects/blob/main/demo.jar
 Then open a terminal as an administrator, locate the file
