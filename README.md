@@ -8,24 +8,38 @@ Picture at bottom.
 FYI: A web crawler is a program that searches through the web or on a specific webpage and fetches the html code (the code that structures the webpage).
 
 ## Test project ##
-To test the program just download the jar file by pressing download(right side on screen).
+To test the program just download the jar file by pressing download(right side on screen when you have followed the link).
 
 https://github.com/Mataiaz/projects/blob/main/demo.jar
 
 Then open a terminal as an administrator, locate the file.
 
-and run java -jar demo.jar
+and right click the file and press open and the program should start.
 
-The app should collect the titles and links from 4 videos on each page and it should go through 2 pages.
+When the program is finished, it will create an excel file in the same location as the webcrawler and store the information inside the excel file.
+
+### Test program with different input ###
+
+run "java -jar basic_webcrawler.jar + LINK + PAGE_NUMBER + POST_NUMBER"
+
+"https://9anime.to/newest?page= 1 1" = (LINK, PAGES, POSTS)
+
+The end part where it is written "https://9anime.to/newest?page= 1 1" is where you input your desired link, amount of pages, and posts per page.
+
+The app should collect the titles and links from 1 post on each page and it should go through 1 page.
+
+When the program is finished, it will create an excel file in the same location as the webcrawler and store the information inside the excel file.
 
 Link to webpage the app goes trough:
 
 https://gogoanime.nl/genre/action?page=1
 
 ## Features ##
-* A file for input to the algorithm file (very basic with reusability).
+* You can input your own desired website with specified number of pages and posts with terminal as you run jar file (very basic with reusability).
 
-* A file which retrive html code with arguments from app file in mind.
+* An algorithm which will retrive html code with arguments from the user input in mind.
+
+* An algorithm which will create and store the result of the program in a excel file.
 
 ## Contact ##
 mathias344@live.no
