@@ -47,7 +47,9 @@ https://gogoanime.nl/genre/action?page=1
 mathias344@live.no
 
 Made by Mathias L. Bjarnason
-
+### Program executed ###
 ![How it looks like](https://github.com/Mataiaz/java_crawler/blob/main/javaPics/java1.PNG)
+### Generated file with stored in result ###
 ![Excel result](https://github.com/Mataiaz/java_crawler/blob/main/javaPics/resultscrawler2.png) ![Excel result](https://github.com/Mataiaz/java_crawler/blob/main/javaPics/resultscrawler1.png)
+### Generated error log with stored in error ###
 ![Error log](https://github.com/Mataiaz/java_crawler/blob/main/javaPics/errorlog.png)
