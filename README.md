@@ -49,4 +49,4 @@ mathias344@live.no
 Made by Mathias L. Bjarnason
 
 ![How it looks like](https://github.com/Mataiaz/java_crawler/blob/main/javaPics/java1.PNG)
-
+![Excel result](https://github.com/Mataiaz/java_crawler/blob/main/javaPics/resultscrawler2.png) ![Excel result](https://github.com/Mataiaz/java_crawler/blob/main/javaPics/resultscrawler1.png)
