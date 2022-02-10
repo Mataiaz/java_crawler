@@ -90,8 +90,8 @@ public class Crawler {
             wb.write(out);
             out.close();
             wb.close();
-        } catch (Exception ex) {
-            ex.printStackTrace();
+        } catch (Exception e) {
+            Error_handling.main(e);
         }
     }
 }
