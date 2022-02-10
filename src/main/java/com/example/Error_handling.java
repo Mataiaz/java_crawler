@@ -1,6 +1,7 @@
 package com.example;
 
 import java.io.IOException;
+import java.io.PrintWriter;
 
 public class Error_handling {
 
@@ -25,6 +26,10 @@ public class Error_handling {
                 //if its not a error from user input then just print error
                 else
                 {
+                    PrintWriter writer = new PrintWriter("ERROR_LOG.txt", "UTF-8");
+                    writer.println("An Error occurred " + e);
+                    writer.println("For help contact mathias344@live.no");
+                    writer.close();
                     System.out.println("An Error occurred " + e);
                 }
     }

@@ -41,6 +41,8 @@ https://gogoanime.nl/genre/action?page=1
 
 * An algorithm which will create and store the result of the program in a excel file.
 
+* Basic error handling, mainly for userinput(which will print in terminal) if it is anything else it will create a text file where is says what the error is.
+
 ## Contact ##
 mathias344@live.no
 
